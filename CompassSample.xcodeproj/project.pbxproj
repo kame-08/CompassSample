@@ -11,6 +11,7 @@
 		2A356183289138D500E20E23 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A356182289138D500E20E23 /* ContentView.swift */; };
 		2A356185289138D800E20E23 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A356184289138D800E20E23 /* Assets.xcassets */; };
 		2A356188289138D800E20E23 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A356187289138D800E20E23 /* Preview Assets.xcassets */; };
+		2A35618F2891390700E20E23 /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A35618E2891390700E20E23 /* LocationManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		2A356182289138D500E20E23 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2A356184289138D800E20E23 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2A356187289138D800E20E23 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2A35618E2891390700E20E23 /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				2A356180289138D500E20E23 /* CompassSampleApp.swift */,
 				2A356182289138D500E20E23 /* ContentView.swift */,
+				2A35618E2891390700E20E23 /* LocationManager.swift */,
 				2A356184289138D800E20E23 /* Assets.xcassets */,
 				2A356186289138D800E20E23 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				2A356183289138D500E20E23 /* ContentView.swift in Sources */,
 				2A356181289138D500E20E23 /* CompassSampleApp.swift in Sources */,
+				2A35618F2891390700E20E23 /* LocationManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
